@@ -41,7 +41,7 @@ Design the database with tables for Customer, Account, and Transaction.
 
 
 ## Activity Diagram
-<img width="941" height="990" alt="image" src="https://github.com/user-attachments/assets/64b5d494-47d2-4c0f-aa4b-e230fd7bbcf0" />
+<img width="626" height="980" alt="image" src="https://github.com/user-attachments/assets/1ef19e9c-9423-4d09-abba-8eb511a0a19c" />
 
 
 ## Communication Diagram
@@ -53,7 +53,7 @@ Design the database with tables for Customer, Account, and Transaction.
 
 
 ## Sequence Diagram
-<img width="881" height="763" alt="image" src="https://github.com/user-attachments/assets/21c6f12b-115b-4581-8082-053f2bd8f70a" />
+<img width="811" height="762" alt="Screenshot 2025-11-12 152022" src="https://github.com/user-attachments/assets/c426ce40-3bab-4f6c-9fd3-20e5324a0af7" />
 
 
 
